@@ -1,5 +1,7 @@
 # Trade Bot Colab Notebooks
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KhangLy2606/trade-bot-colab-notebooks/blob/master/regime_classifier_training.ipynb)
+
 This repository contains standalone ML notebooks for the trade-bot project.
 
 ## Files
@@ -9,9 +11,8 @@ This repository contains standalone ML notebooks for the trade-bot project.
 - `train_regime.py` — Script-based training alternative
 
 ## Open in Google Colab
-1. Go to https://colab.research.google.com/
-2. File -> Open notebook -> GitHub
-3. Select this repository and open `regime_classifier_training.ipynb`
+- Direct notebook link: https://colab.research.google.com/github/KhangLy2606/trade-bot-colab-notebooks/blob/master/regime_classifier_training.ipynb
+- Or open Colab -> File -> Open notebook -> GitHub and search `KhangLy2606/trade-bot-colab-notebooks`
 
 ## Credentials
 Use one of:
