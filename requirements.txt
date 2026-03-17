@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy>=1.15
+scikit-learn>=1.6
+fsspec==2025.3.0
+s3fs==2025.3.0
+lightgbm>=4.0
+optuna>=3.0
+mlflow>=2.0
+python-dotenv>=1.0
+ipykernel

@@ -1,0 +1,23 @@
+[project]
+name = "trade-bot-notebooks"
+version = "0.1.0"
+description = "Standalone ML notebooks for the trade-bot project"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scipy>=1.15",
+    "scikit-learn>=1.6",
+    "fsspec==2025.3.0",
+    "s3fs==2025.3.0",
+    "lightgbm>=4.0",
+    "optuna>=3.0",
+    "mlflow>=2.0",
+    "python-dotenv>=1.0",
+    "ipykernel",
+]
+
+[tool.uv]
+managed = true
